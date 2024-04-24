@@ -11,7 +11,7 @@ import { ToastContainer } from 'react-toastify';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store}>
-    <BrowserRouter basename="goit-react-hw-08-phonebook">
+    <BrowserRouter basename="phonebook-project">
       <App />
       <ToastContainer autoClose={1500} />
     </BrowserRouter>

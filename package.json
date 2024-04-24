@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-08-phonebook",
+  "name": "phonebook-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kpapura.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://kpapura.github.io/phonebook-project/",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "@reduxjs/toolkit": "^2.2.1",
