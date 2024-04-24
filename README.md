@@ -1,7 +1,8 @@
 # Contacts Book application
 [Link to the web page](https://kpapura.github.io/phonebook-project/)
 
-_Role: developer/>_
+_Role: developer_
+
 _Individual project_
 
 
